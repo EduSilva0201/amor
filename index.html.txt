@@ -84,7 +84,7 @@ button:hover {
     <h1>Para Minha Princesa ❤️</h1>
 
     <p>
-        Nos gestos simples de todos os dias e nos momentos difíceis a gente prova o quanto o nosso amor é puro, eu sei que eu não sou perfeito, estou longe de ser, mas, eu tenho certeza que nunca faltará cuidado, carinho, companheirismo e amor em nossa relação.
+        Nos gestos simples de todos os dias e nos momentos difíceis a gente prova o quanto o nosso amor é puro, eu sei que eu não sou perfeito, estou longe de ser, mas eu tenho certeza que nunca faltará cuidado, carinho, companheirismo e amor em nossa relação.
         <br><br>
         Esse pequeno e simples presente é pra simbolizar o quanto eu te amo, você sempre será minha princesa e poderá contar comigo em todos os momentos da sua vida, eu te amo muito.
     </p>
@@ -93,9 +93,9 @@ button:hover {
 
     <div class="extra" id="musica">
         <p>
-        O seu amor<br>
-        Reluz que nem riqueza, asa do meu destino<br>
-        Clareza do tino, pétala<br>
-        De estrela caindo bem devagar<br>
-        Ó meu amor<br>
-        Viver é todo sacrif
+            O seu amor<br>
+            Reluz que nem riqueza, asa do meu destino<br>
+            Clareza do tino, pétala<br>
+            De estrela caindo bem devagar<br>
+            Ó meu amor<br>
+            Viver
