@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Para Minha Princesa ❤️</title>
+
+<style>
+body {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    background: linear-gradient(135deg, #ff758c, #ff7eb3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+    color: white;
+}
+
+.container {
+    background: rgba(255,255,255,0.15);
+    backdrop-filter: blur(15px);
+    padding: 35px;
+    border-radius: 25px;
+    max-width: 420px;
+    margin: 20px;
+    box-shadow: 0 15px 35px rgba(0,0,0,0.2);
+    animation: fadeIn 2s ease;
+}
+
+img {
+    width: 100%;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 17px;
+    line-height: 1.6;
+}
+
+button {
+    margin-top: 25px;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 30px;
+    background: white;
+    color: #ff4f81;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    transform: scale(1.07);
+}
+
+.extra {
+    margin-top: 20px;
+    display: none;
+    animation: fadeIn 2s ease;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(15px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- COLOQUE A FOTO DE VOCÊS AQUI -->
+    <img src="sua-foto.jpg" alt="Nós dois ❤️">
+
+    <h1>Para Minha Princesa ❤️</h1>
+
+    <p>
+        Nos gestos simples de todos os dias e nos momentos difíceis a gente prova o quanto o nosso amor é puro, eu sei que eu não sou perfeito, estou longe de ser, mas, eu tenho certeza que nunca faltará cuidado, carinho, companheirismo e amor em nossa relação.
+        <br><br>
+        Esse pequeno e simples presente é pra simbolizar o quanto eu te amo, você sempre será minha princesa e poderá contar comigo em todos os momentos da sua vida, eu te amo muito.
+    </p>
+
+    <button onclick="mostrarMensagem()">Clique aqui 💌</button>
+
+    <div class="extra" id="musica">
+        <p>
+        O seu amor<br>
+        Reluz que nem riqueza, asa do meu destino<br>
+        Clareza do tino, pétala<br>
+        De estrela caindo bem devagar<br>
+        Ó meu amor<br>
+        Viver é todo sacrif
